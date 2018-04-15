@@ -1,4 +1,4 @@
-#Accessibility statement example
+# Accessibility statement example
 
 ## Site accessibility
 
