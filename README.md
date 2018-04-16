@@ -4,6 +4,8 @@ Most accessibility statements suck.  They are boiler-plate documents which don't
 
 My hope is that by developing a template collectively we can define best practices. 
 
+Accessibility statements can be useful as a step help defend yourself against accessibility lawsuits (especially in the USA) but what is important is demonstrating that you are actively working to reduce barriers for your users.  This is something that is key for any customer/client focused organization. 
+
 ## An Accessibility Information Page should:
 - State that inclusion is important for the organization
 - Explain what has been done to make the site more accessible
