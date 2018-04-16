@@ -5,6 +5,7 @@ Most accessibility statements suck.  They are boiler-plate documents which don't
 My hope is that by developing a template collectively we can define best practices. 
 
 ## An Accessibility Information Page should:
+- State that inclusion is important for the organization
 - Explain what has been done to make the site more accessible
 - Include information about other accessibility services
 - Make accessibility enhancements more discoverable
