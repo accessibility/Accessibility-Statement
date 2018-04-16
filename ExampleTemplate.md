@@ -19,6 +19,7 @@
 
 - Use this webform, send us an email or reach out to us on our social media
 - This site will never be 100% accessibile, but working with you we will eliminate barriers to help us get closer
+- Good here to highlight that you have an accessibility coordinator
 
 ## What are our goals
 
