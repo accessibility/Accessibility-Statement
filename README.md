@@ -13,8 +13,9 @@ My hope is that by developing a template collectively we can define best practic
 - Have an easy, accessibile way to contact the web admins if someone runs into a barrier (possibly including a phone number)
 - State the accessibility guidelines that the site is working to achieve
 - Provide details about the organization’s web accessibility policy
+- Indicate if there is an accessibility coordinator or committee
 - Highlight goals for assistive technology supported (ie. latest release + one)
-- Linked to from every page on the site in the footer or header
+- Be linked to from every page on the site in the footer or header
 
 ## Bonus points if:
 - If an audit was done on the site, it would be beneficial to say who did it and when
