@@ -16,6 +16,7 @@ My hope is that by developing a template collectively we can define best practic
 - Indicate if there is an accessibility coordinator or committee
 - Highlight goals for assistive technology supported (ie. latest release + one)
 - Be linked to from every page on the site in the footer or header
+- Something to verify that this is a journey and that this is being regularly updated
 
 ## Bonus points if:
 - If an audit was done on the site, it would be beneficial to say who did it and when
