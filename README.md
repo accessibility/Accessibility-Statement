@@ -18,7 +18,7 @@ Accessibility statements can be useful as a step help defend yourself against ac
 - State the accessibility guidelines that the site is working to achieve
 - **Provide details about the organization’s web accessibility policy**
 - Indicate if there is an accessibility coordinator or committee
-- Highlight goals for assistive technology supported (ie. latest release + one)
+- Highlight goals for assistive technology supported (ie. latest & previous versions)
 - **Be linked to from every page on the site in the footer or header**
 - Something to verify that this is a journey and that this is being regularly updated
 
