@@ -1,9 +1,10 @@
-# Accessibility statement example
+# Building an Accessibility Statement
 
-## Site accessibility
+## Site accessibility checklist
 
 - do you have HTML5 headings?
-- Color contrast
+- color contrast
+- use of alt text
 
 ## Enhancements you might have missed
 
@@ -28,4 +29,11 @@
 
 ## Assistive technology we test with
 
-- Latest release + one
+- Latest release plus one
+
+## Make sure your alt text is properly structured
+
+- review it to see that it is in plain language & without jargon - run it through http://www.hemingwayapp.com/
+- Test to see that it is the most accessible page on your site
+- Ensure this page is reviewed by a 3rd party
+- Spellcheck this page and ensure that if it has web forms there is proper validation
