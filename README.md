@@ -8,19 +8,21 @@ Accessibility statements can be useful as a step help defend yourself against ac
 
 
 ## An Accessibility Information Page should:
-- State that inclusion is important for the organization
+- State that inclusion is important value to the organization
+- State the accessibility guidelines that the site is working to achieve
+- Outline exceptions (such as legacy PDF files)
 - Explain what has been done to make the site more accessible
 - **Include information about other accessibility services**
-- Make accessibility enhancements more discoverable
-- Highlight the technology stack and if accessibility played into it's selection
-- If you use automated testing tools, tell us which ones you use
+- Outline what accessibility enhancements have been made to make them more discoverable
+- Highlight the technology stack and if accessibility played into it's selection - if an open source libraries (like Drupal) was used, it is worth metioning that
+- If you use automated testing tools, tell us which ones you use - explain how those are complimented with manual testing
 - **Have an easy, accessibile way to contact the web admins if someone runs into a barrier (possibly including a phone number)**
-- State the accessibility guidelines that the site is working to achieve
 - **Provide details about the organization’s web accessibility policy**
-- Indicate if there is an accessibility coordinator or committee
+- If there is an accessibility coordinator or committee, provide contact information
 - Highlight goals for assistive technology supported (ie. latest & previous versions)
-- **Be linked to from every page on the site in the footer or header**
-- Something to verify that this is a journey and that this is being regularly updated
+- **Have statement linked to from every page on the site in the footer or header**
+- Affirm that the organization is aware that this is a journey and that improvements are being made regularly
+
 
 **Bold** text references to [lflegal's guide](http://www.lflegal.com/2013/02/access-info-pages/#ideal)
 
@@ -50,6 +52,5 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 - http://www.lflegal.com/accessibility/
 - http://www.lflegal.com/2017/03/update-csun17/#best
 - http://www.lflegal.com/2013/02/access-info-pages/#ideal
-
 - http://www.hassellinclusion.com/2012/05/write-accessibility-statement/
 - https://www.nomensa.com/blog/2009/writing-an-accessibility-statement
