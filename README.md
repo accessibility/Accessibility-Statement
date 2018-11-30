@@ -54,3 +54,4 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 - http://www.lflegal.com/2013/02/access-info-pages/#ideal
 - http://www.hassellinclusion.com/2012/05/write-accessibility-statement/
 - https://www.nomensa.com/blog/2009/writing-an-accessibility-statement
+- https://www.w3.org/WAI/planning/statements/
