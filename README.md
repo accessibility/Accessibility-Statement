@@ -55,3 +55,9 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 - http://www.hassellinclusion.com/2012/05/write-accessibility-statement/
 - https://www.nomensa.com/blog/2009/writing-an-accessibility-statement
 - https://www.w3.org/WAI/planning/statements/
+- http://nda.ie/Resources/Accessibility-toolkit/Accessibility-Statement-Template/
+- http://juicystudio.com/displayarticle.php?page=writing-a-good-accessibility-statement.php
+
+## Notable Examples
+- https://georgia.gov/accessibility
+- https://www.steward.org/accessibility
