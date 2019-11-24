@@ -23,7 +23,6 @@ Accessibility statements can be useful as a step help defend yourself against ac
 - **Have statement linked to from every page on the site in the footer or header**
 - Affirm that the organization is aware that this is a journey and that improvements are being made regularly
 
-
 **Bold** text references to [lflegal's guide](http://www.lflegal.com/2013/02/access-info-pages/#ideal)
 
 
@@ -31,6 +30,9 @@ Accessibility statements can be useful as a step help defend yourself against ac
 - If an audit was done on the site, it would be beneficial to say who did it and when
 - If it was tested with assistive technology, it would be useful to know what versions and when.
 
+## Ontario Government Accessibility Reports
+
+- Large organizations in Ontario will be required by the [Accessibility for Ontarians with Disabilities Act (AODA)](https://en.wikipedia.org/wiki/Accessibility_for_Ontarians_with_Disabilities_Act,_2005#Ontarians_with_Disabilities_Act) to create an Accessibility Report and [make it available to the public](http://www.slaw.ca/2019/09/12/time-to-review-your-accessibility-plans-and-prepare-to-file-a-report-in-2020/). An Accessibility statemnet is a logical place to have this. 
 
 ## UK Gov Encourages government sites to publish an accessibility statement
 
@@ -61,3 +63,4 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 ## Notable Examples
 - https://georgia.gov/accessibility
 - https://www.steward.org/accessibility
+- https://www.canadapost.ca/cpc/en/our-company/about-us/corporate-responsibility/accessibility.page
