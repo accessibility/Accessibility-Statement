@@ -59,6 +59,7 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 - https://www.w3.org/WAI/planning/statements/
 - http://nda.ie/Resources/Accessibility-toolkit/Accessibility-Statement-Template/
 - http://juicystudio.com/displayarticle.php?page=writing-a-good-accessibility-statement.php
+- https://gds.blog.gov.uk/2018/11/21/public-sector-website-accessibility-statements-what-you-need-to-know/
 
 ## Notable Examples
 - https://georgia.gov/accessibility
