@@ -46,7 +46,7 @@ The accessibility statement must include the following:
    - a feedback mechanism that can be used by any person to tell the public body about content in the website or app that doesn’t meet the accessibility requirements
    - a link to the enforcement procedure to which recourse may be had in the event of an unsatisfactory response to the notification or the request
 
-From their 2018 [Open consultation](https://www.gov.uk/government/consultations/accessibility-of-public-sector-websites-and-apps-new-duties-and-regulations/consultation-information-and-questions#publish-an-accessibility-statement)
+From their 2018 [Open consultation](https://www.gov.uk/government/consultations/accessibility-of-public-sector-websites-and-apps-new-duties-and-regulations/consultation-information-and-questions#publish-an-accessibility-statement) and the [final report](https://gds.blog.gov.uk/2018/11/21/public-sector-website-accessibility-statements-what-you-need-to-know/).
 
 
 ## Resources
