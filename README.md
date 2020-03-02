@@ -62,6 +62,7 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 - https://gds.blog.gov.uk/2018/11/21/public-sector-website-accessibility-statements-what-you-need-to-know/
 - https://www.gov.uk/guidance/make-your-website-or-app-accessible-and-publish-an-accessibility-statement
 - https://www.gov.uk/government/publications/sample-accessibility-statement
+- https://pressbooks.library.ryerson.ca/dabp/chapter/creating-an-accessibility-statement/
 
 ## Notable Examples
 - https://georgia.gov/accessibility
