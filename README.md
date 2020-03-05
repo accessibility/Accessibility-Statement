@@ -36,7 +36,6 @@ Accessibility statements can be useful as a step help defend yourself against ac
 
 ## European Union Public Sector Accessibility Regulations
 - [Tetra Logical: Public Sector Accessibility Regulations](https://tetralogical.com/articles/public-sector-accessibility-regulations/)
-- 
 
 ### Holland
 - [Dutch Fill-in Assistant Accessibility Statement](https://www.toegankelijkheidsverklaring.nl/)
