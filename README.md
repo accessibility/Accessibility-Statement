@@ -34,6 +34,14 @@ Accessibility statements can be useful as a step help defend yourself against ac
 
 - Large organizations in Ontario will be required by the [Accessibility for Ontarians with Disabilities Act (AODA)](https://en.wikipedia.org/wiki/Accessibility_for_Ontarians_with_Disabilities_Act,_2005#Ontarians_with_Disabilities_Act) to create an Accessibility Report and [make it available to the public](http://www.slaw.ca/2019/09/12/time-to-review-your-accessibility-plans-and-prepare-to-file-a-report-in-2020/). An Accessibility statemnet is a logical place to have this. 
 
+## European Union Public Sector Accessibility Regulations
+- [Tetra Logical: Public Sector Accessibility Regulations](https://tetralogical.com/articles/public-sector-accessibility-regulations/)
+- 
+
+### Holland
+- [Dutch Fill-in Assistant Accessibility Statement](https://www.toegankelijkheidsverklaring.nl/)
+
+
 ## UK Gov Encourages government sites to publish an accessibility statement
 
 To comply with the requirements of the Directive public sector bodies must publish an accessibility statement. The statement must:
@@ -46,7 +54,7 @@ The accessibility statement must include the following:
    - a feedback mechanism that can be used by any person to tell the public body about content in the website or app that doesn’t meet the accessibility requirements
    - a link to the enforcement procedure to which recourse may be had in the event of an unsatisfactory response to the notification or the request
 
-From their 2018 [Open consultation](https://www.gov.uk/government/consultations/accessibility-of-public-sector-websites-and-apps-new-duties-and-regulations/consultation-information-and-questions#publish-an-accessibility-statement) and the [final report](https://gds.blog.gov.uk/2018/11/21/public-sector-website-accessibility-statements-what-you-need-to-know/).
+From their 2018 [Open consultation](https://www.gov.uk/government/consultations/accessibility-of-public-sector-websites-and-apps-new-duties-and-regulations/consultation-information-and-questions#publish-an-accessibility-statement) and the [final report](https://gds.blog.gov.uk/2018/11/21/public-sector-website-accessibility-statements-what-you-need-to-know/). [UK Legislation](http://www.legislation.gov.uk/eudn/2018/1523/annex/annotations/1/adopted)
 
 
 ## Resources
@@ -56,13 +64,16 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 - http://www.lflegal.com/2013/02/access-info-pages/#ideal
 - http://www.hassellinclusion.com/2012/05/write-accessibility-statement/
 - https://www.nomensa.com/blog/2009/writing-an-accessibility-statement
+- https://www.accessibilitystatementgenerator.com/
 - https://www.w3.org/WAI/planning/statements/
+- https://www.w3.org/WAI/EO/wiki/Accessibility_Statements_Requirements
 - http://nda.ie/Resources/Accessibility-toolkit/Accessibility-Statement-Template/
 - http://juicystudio.com/displayarticle.php?page=writing-a-good-accessibility-statement.php
 - https://gds.blog.gov.uk/2018/11/21/public-sector-website-accessibility-statements-what-you-need-to-know/
 - https://www.gov.uk/guidance/make-your-website-or-app-accessible-and-publish-an-accessibility-statement
 - https://www.gov.uk/government/publications/sample-accessibility-statement
 - https://pressbooks.library.ryerson.ca/dabp/chapter/creating-an-accessibility-statement/
+- https://www.microassist.com/digital-accessibility/the-value-of-digital-accessibility-statements-a-checklist-for-getting-started/
 
 ## Notable Examples
 - https://georgia.gov/accessibility
