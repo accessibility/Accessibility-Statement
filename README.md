@@ -79,3 +79,5 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 - https://georgia.gov/accessibility
 - https://www.steward.org/accessibility
 - https://www.canadapost.ca/cpc/en/our-company/about-us/corporate-responsibility/accessibility.page
+- https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/accessibility-statement.html
+
