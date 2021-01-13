@@ -74,6 +74,7 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 - https://pressbooks.library.ryerson.ca/dabp/chapter/creating-an-accessibility-statement/
 - https://www.microassist.com/digital-accessibility/the-value-of-digital-accessibility-statements-a-checklist-for-getting-started/
 - https://blog.tenon.io/sample-post
+- https://disabilityin.org/resource/digital-accessibility-statement-best-practices/
 
 ## Notable Examples
 - https://georgia.gov/accessibility
