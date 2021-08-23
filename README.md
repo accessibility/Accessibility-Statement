@@ -72,6 +72,7 @@ From their 2018 [Open consultation](https://www.gov.uk/government/consultations/
 - https://www.microassist.com/digital-accessibility/the-value-of-digital-accessibility-statements-a-checklist-for-getting-started/
 - https://blog.tenon.io/sample-post
 - https://disabilityin.org/resource/digital-accessibility-statement-best-practices/
+- https://uxdesign.cc/accessibility-statements-855ce1b65993
 
 ## Government Policies
 - https://gds.blog.gov.uk/2018/11/21/public-sector-website-accessibility-statements-what-you-need-to-know/
